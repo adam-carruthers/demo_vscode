@@ -15,6 +15,8 @@ def combine_names(first_name, last_name):
 
 
 def main():
+    print("Hello and welcome to my spectacular program")
+
     full_name = calc_full_name()
 
     print(f"Your name is {full_name}")
