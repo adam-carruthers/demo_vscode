@@ -1,5 +1,5 @@
 import pandas as pd
-from example_file import fake_input
+from .example_file import fake_input
 
 
 def calc_full_name():
